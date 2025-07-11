@@ -1,14 +1,27 @@
-# Use of Funds – DAO Grant (€10,000–€15,000)
+# Use of Funds – DAO Grant Request (€10,000–€15,000)
 
-This grant will be used to launch MVP 1 (One World Lingo), a multilingual transcription and translation platform aligned with sovereign AI infrastructure principles.
+This grant will fund the launch and public release of MVP 1 of One World Lingo — a multilingual AI transcription and translation tool built on sovereign infrastructure principles and designed for future integration into decentralized public-good systems.
 
-### Fund Allocation
-| Category                | Amount (€) | Purpose |
-|-------------------------|------------|---------|
-| MVP Launch & Ops        | 4,000      | Infrastructure, cloud services, Stripe setup (Ireland Ltd) |
-| Grant Compliance + Legal| 2,000      | Filing, cross-jurisdiction setup (Ireland/Estonia) |
-| Dev Tools + Testing     | 1,000      | AI stack training, testing, tuning |
-| Marketing Rollout       | 1,000      | Media assets, translation outreach, SEO |
-| Reserve (buffer)        | 3,000      | Unforeseen costs and fees |
+All funds support open tooling and non-extractive architecture development.
 
-Grant funding is fully non-salary, founder-led, and used to build DAO-aligned impact tooling.
+---
+
+### 💸 Grant Allocation
+
+| Category                  | Amount (€) | Description |
+|---------------------------|------------|-------------|
+| MVP Infrastructure        | 4,000      | Netlify, Supabase (EU), API credits, Stripe integration (Ireland Ltd) |
+| Legal & Compliance        | 2,000      | Cross-jurisdiction setup (Ireland LTD ) GDPR alignment |
+| AI Tools & DevOps         | 1,000      | Model QA, translation edge-case testing, deployment scripting |
+| Outreach & Localization   | 1,000      | Accessibility polish, regional outreach, language variants |
+| Grant Buffer              | 3,000      | Unexpected migration costs, API spikes, hardening fixes |
+
+---
+
+### 🙌 Project Notes
+
+- MVP is modular, privacy-focused, and export-friendly  
+- Architecture supports future offline and air-gapped deployments  
+- Founder-led build with no salary draw  
+- Targeted for multilingual civic + educational use cases  
+- Aligned with DAO integration and long-term public utility
