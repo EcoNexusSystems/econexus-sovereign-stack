@@ -95,7 +95,11 @@ CI/CD Hooks	🔜 To be finalized
     All frontend/backend logic and API integrations are original builds
 
 
-9. Points of Contact:
+        Per IP Licensing Agreement and Royalty Certificate, all MVP logic and integrations are authored and licensed by EcoNexus Systems OÜ with enforceable perpetual royalty rights.
+   
+
+
+10. Points of Contact:
 
     Email: admin@econexus.eu
 
@@ -106,7 +110,7 @@ CI/CD Hooks	🔜 To be finalized
     Irish LTD (Billing Jurisdiction): In formation
 
 
-10. Appendices (Available on Request):
+11. Appendices (Available on Request):
 
     Screenshots of MVP dashboards and upload UI
 
