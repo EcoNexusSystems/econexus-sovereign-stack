@@ -21,7 +21,7 @@ To deliver rapid, compliant, and user-friendly transcription and translation too
 
     Deployment-ready infrastructure, pending Stripe integration finalization
 
-3. Core Technical Stack
+3. Core Technical Stack:
 
 Layer	Technology
 Frontend	Next.js 15 (App Router) + Tailwind CSS
@@ -32,7 +32,7 @@ AI/ML	OpenAI Whisper API (transcription), DeepL API (translation)
 CI/CD	Local development + Netlify Deploy Hooks (staged)
 Dev Tools	VS Code, GitHub Copilot, CodeSandbox
 
-4. Key Architectural Benefits
+4. Key Architectural Benefits:
 
     Serverless: Auto-scaled Next.js API endpoints with zero backend maintenance
 
@@ -44,7 +44,8 @@ Dev Tools	VS Code, GitHub Copilot, CodeSandbox
 
     Extensible: Stripe + Resend integrations scaffolded and config-ready
 
-5. Compliance & Data Sovereignty
+
+5. Compliance & Data Sovereignty:
 
     All user data and services hosted in GDPR-compliant EU regions
 
@@ -54,17 +55,25 @@ Dev Tools	VS Code, GitHub Copilot, CodeSandbox
 
     Email logic (password reset, notifications) pre-wired using Resend templates
 
-6. Infrastructure Status
 
-Module	Status
+6. Infrastructure Status:
+
+Module	Status:
+
 Supabase Auth	✅ Configured
+
 Whisper Integration	✅ Complete
+
 DeepL Integration	✅ Complete
+
 Stripe Integration	🔜 Pending (Ireland LTD)
+
 Email (Resend)	🔜 Scaffolded
+
 CI/CD Hooks	🔜 To be finalized
 
-7. Roadmap
+
+7. Roadmap:
 
     Add Resend-powered transactional email + contact system
 
@@ -74,7 +83,8 @@ CI/CD Hooks	🔜 To be finalized
 
     Add opt-in usage metering with role-based quotas and RLS gating
 
-8. Intellectual Property
+
+8. Intellectual Property:
 
     Custom MVP SaaS architecture (Next.js + Supabase)
 
@@ -84,7 +94,8 @@ CI/CD Hooks	🔜 To be finalized
 
     All frontend/backend logic and API integrations are original builds
 
-9. Points of Contact
+
+9. Points of Contact:
 
     Email: admin@econexus.eu
 
@@ -94,7 +105,8 @@ CI/CD Hooks	🔜 To be finalized
 
     Irish LTD (Billing Jurisdiction): In formation
 
-10. Appendices (Available on Request)
+
+10. Appendices (Available on Request):
 
     Screenshots of MVP dashboards and upload UI
 
