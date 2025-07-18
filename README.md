@@ -1,5 +1,5 @@
-> 🔒 Authorship + Ownership retained by **EcoNexus Systems OÜ**  
-> This repository is a cryptographic proof of architecture, authorship, and sovereign deployment capability.
+🔒 Authorship + Ownership retained by **EcoNexus Systems OÜ**  
+This repository is a cryptographic proof of architecture, authorship, and sovereign deployment capability.
 
 # 🗺️ OneWorldLingo – MVP 1 Repository
 
@@ -14,31 +14,6 @@
 
 This is the **first public MVP** by **EcoNexus Systems OÜ**, a digitally native software company registered via Estonia’s e-Residency program.  
 All logic, infrastructure, and integration was built in-house, grant-ready, and reproducible.
-
----
-
-## 💥 Why This Project Exists
-
-### ❌ Rejected by LHV. ✅ Funded by the DAO.
-
-Estonia promised that anyone — anywhere — could launch a company through e-Residency. I believed them.
-
-I:
-
-- Incorporated **EcoNexus Systems OÜ**, an AI R&D and software architecture entity
-- Built this MVP from scratch — a fully functional, GDPR-ready AI product
-- Submitted a **fully documented microloan** to Estonia’s largest bank (LHV) to scale
-
-Despite meeting all digital and legal requirements, I was **denied funding solely because I wasn't physically in Estonia.** The bank’s internal policy rejected my application regardless of compliance or entity status.
-
-This repository is my **technical counter-response** — a functioning public-proof MVP stack, fully documented, grant-ready, and fundable by decentralized ecosystems.
-
-📌 **This isn’t a grievance — it’s a blueprint for post-gatekeeper infrastructure.**  
-📌 **DAO grants and global contributors make it possible to build where institutions block us.**  
-📌 **OneWorldLingo proves that aligned, founder-led deployment can still happen — without legacy finance.**
-
-🔗 [Read the Medium article](https://medium.com/@admin_46492/lhv-rejected-my-e-residency-business-loan-application-because-im-an-e-resident-db327fc05718)  
-🔗 [Trustpilot Public Review](https://www.trustpilot.com/reviews/686d1069096889da45a7597f)
 
 ---
 
@@ -130,7 +105,33 @@ This MVP is original work, licensed under retained ownership:
 
 - 🛡️ Authorship retained by **EcoNexus Systems OÜ**  
 - 📜 IP Licensing & Royalty Structure documented and enforceable  
-- 🧠 All logic, integration patterns, and stack design are in-house builds
+- 🧠 All logic, integration patterns, and stack design are in-house builds  
+- 💡 While this platform is not open source, it is DAO-transparent and aligned, royalty-enforceable, and reproducible by sovereign builders.
+
+---
+
+## 💥 Why This Project Exists
+
+### ❌ Rejected by LHV. ✅ Funded by the DAO.
+
+Estonia promised that anyone — anywhere — could launch a company through e-Residency. I believed them.
+
+I:
+
+- Incorporated **EcoNexus Systems OÜ**, an AI R&D and software architecture entity
+- Built this MVP from scratch — a fully functional, GDPR-ready AI product
+- Submitted a **fully documented microloan** to (LHV) to scale
+
+Despite meeting all digital and legal requirements, I was **denied funding solely because I wasn't physically in Estonia.** LHV’s internal policy rejected my application regardless of compliance or entity status.
+
+This repository is my **technical counter-response** — a functioning public-proof MVP stack, fully documented, grant-ready, and fundable by decentralized ecosystems.
+
+📌 **This isn’t a grievance — it’s a blueprint for post-gatekeeper infrastructure.**  
+📌 **DAO grants and global contributors make it possible to build where institutions block us.**  
+📌 **OneWorldLingo proves that aligned, founder-led deployment can still happen — without legacy finance.**
+
+🔗 [Read the Medium article](https://medium.com/@admin_46492/lhv-rejected-my-e-residency-business-loan-application-because-im-an-e-resident-db327fc05718)  
+🔗 [Trustpilot Public Review](https://www.trustpilot.com/reviews/686d1069096889da45a7597f)
 
 ---
 
@@ -144,6 +145,12 @@ This MVP is original work, licensed under retained ownership:
 | ✅ Public Access       | Code, logic, and licensing are transparent |
 
 ---
+
+🎯 DAO Alignment
+
+- This MVP was built without VC, without banks, and without permission.
+- It qualifies as public infrastructure for Quadratic Funding matching rounds.
+- All repo logic, stack, and deployment instructions are transparent and reproducible.
 
 ## 🧾 Contact
 
@@ -163,5 +170,3 @@ If this architecture fits your mission — **fund it**.
 If this repo inspires you — **fork it and improve it**.
 
 🛠️ Either way: **This tech now exists.**
-
----
