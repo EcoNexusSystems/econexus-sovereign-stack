@@ -24,7 +24,8 @@ All logic, infrastructure, and integration was built in-house, grant-ready, and 
 - ✅ Supabase-auth + OpenAI Whisper + DeepL API
 - ✅ GDPR-compliant, EU-hosted infrastructure
 - ✅ No cookies, trackers, or behavioral analytics
-- ✅ Email and billing logic scaffolded, pending LTD setup
+- ✅ Crypto-first donation and billing path enabled (ETH/USDC)
+- ✅ Stripe billing scaffolded and will run in parallel once LTD is live
 
 ---
 
@@ -62,6 +63,20 @@ All logic, infrastructure, and integration was built in-house, grant-ready, and 
 
 ---
 
+## 💸 Crypto-First Payment Model (Live)
+
+To minimize friction and increase global access, this MVP currently uses **crypto-only billing and donation flows**:
+
+- Accepts ETH and USDC  
+- No Stripe or fiat account required to support or use the platform  
+- Crypto flows are tracked transparently via wallet + Etherscan  
+- Stripe integration will run in parallel once Irish LTD is finalized
+
+🔗 [Donate Now](https://econexus.eu/donate)  
+📬 Wallet Address: `0xYourWalletGoesHere`
+
+---
+
 ## 🚧 Roadmap
 
 | Milestone                         | Status        |
@@ -69,6 +84,7 @@ All logic, infrastructure, and integration was built in-house, grant-ready, and 
 | Supabase Auth                    | ✅ Complete    |
 | Whisper Integration              | ✅ Complete    |
 | DeepL Integration                | ✅ Complete    |
+| Crypto-First Billing Support     | ✅ Live        |
 | Stripe Setup (Ireland LTD)       | 🔜 Pending     |
 | Resend Transactional Email       | 🔜 Scaffolded  |
 | MVP UI & Transcription UX        | ✅ Complete    |
@@ -122,13 +138,15 @@ I:
 - Built this MVP from scratch — a fully functional, GDPR-ready AI product
 - Submitted a **fully documented microloan** to (LHV) to scale
 
-Despite meeting all digital and legal requirements, I was **denied funding solely because I wasn't physically in Estonia.** LHV’s internal policy rejected my application regardless of compliance or entity status.
+Despite meeting all digital and legal requirements, I was **denied funding solely because I wasn't physically in Estonia.**  
+LHV’s internal policy rejected my application regardless of compliance or entity status.
 
 This repository is my **technical counter-response** — a functioning public-proof MVP stack, fully documented, grant-ready, and fundable by decentralized ecosystems.
 
 📌 **This isn’t a grievance — it’s a blueprint for post-gatekeeper infrastructure.**  
 📌 **DAO grants and global contributors make it possible to build where institutions block us.**  
-📌 **OneWorldLingo proves that aligned, founder-led deployment can still happen — without legacy finance.**
+📌 **OneWorldLingo proves that aligned, founder-led deployment can still happen — without legacy finance.**  
+📌 **Crypto-first infrastructure is now live — global support flows can begin today.**
 
 🔗 [Read the Medium article](https://medium.com/@admin_46492/lhv-rejected-my-e-residency-business-loan-application-because-im-an-e-resident-db327fc05718)  
 🔗 [Trustpilot Public Review](https://www.trustpilot.com/reviews/686d1069096889da45a7597f)
@@ -151,6 +169,9 @@ This repository is my **technical counter-response** — a functioning public-pr
 - This MVP was built without VC, without banks, and without permission.
 - It qualifies as public infrastructure for Quadratic Funding matching rounds.
 - All repo logic, stack, and deployment instructions are transparent and reproducible.
+- Crypto-first billing proves it is self-sovereign and ecosystem-ready.
+
+---
 
 ## 🧾 Contact
 
