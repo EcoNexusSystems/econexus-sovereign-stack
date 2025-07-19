@@ -38,9 +38,6 @@ Support the mission directly via the new [Donate Page](https://econexus.eu/donat
 
 This site was part of an **e-Resident startup package** denied a microloan by **LHV Bank, Estonia**. Despite meeting legal and professional standards, rejection was issued solely due to **non-residency**.
 
-
-> ❝ Despite submitting one of the most well-prepared startup applications they've likely received, LHV rejected it simply due to my e-resident status. This reveals a systemic flaw in Estonia’s “borderless” digital promise. ❞
-
 🕊️ This only reinforces our mission: to build independent, accessible, post-scarcity tech — without gatekeepers.
 
 ---
