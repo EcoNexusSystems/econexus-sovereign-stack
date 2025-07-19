@@ -24,7 +24,7 @@ All logic, infrastructure, and integration was built in-house, grant-ready, and 
 - ✅ Supabase-auth + OpenAI Whisper + DeepL API
 - ✅ GDPR-compliant, EU-hosted infrastructure
 - ✅ No cookies, trackers, or behavioral analytics
-- ✅ Crypto-first donation and billing path enabled (ETH/USDC)
+- ✅ Crypto-first donation and billing path enabled (ETH/USDC, MetaMask-compatible)
 - ✅ Stripe billing scaffolded and will run in parallel once LTD is live
 
 ---
@@ -63,17 +63,18 @@ All logic, infrastructure, and integration was built in-house, grant-ready, and 
 
 ---
 
-## 💸 Crypto-First Payment Model (Live)
+## 💸 Crypto-First Donation & Billing Model (Live)
 
-To minimize friction and increase global access, this MVP currently uses **crypto-only billing and donation flows**:
+To minimize friction and align with decentralized funding models, this MVP now uses a **crypto-first billing and donation system**, with no reliance on banks or Stripe at launch.
 
-- Accepts ETH and USDC  
-- No Stripe or fiat account required to support or use the platform  
-- Crypto flows are tracked transparently via wallet + Etherscan  
-- Stripe integration will run in parallel once Irish LTD is finalized
+- ✅ Accepts ETH and USDC
+- ✅ Donations are processed directly via MetaMask or wallet transfer
+- ✅ QR Code and Copy-to-Clipboard available for mobile and desktop
+- ✅ Stripe integration scaffolded for parallel fiat support (pending LTD formation)
 
-🔗 [Donate Now](https://econexus.eu/donate)  
-📬 Wallet Address: `0xYourWalletGoesHere`
+> 🧾 Donations and usage-based support now available at:  
+> 🔗 [https://econexus.eu/donate](https://econexus.eu/donate)  
+> 📬 Wallet Address: `0xa935125eF13B475C6e90698eD7DFC946b9579865`
 
 ---
 
@@ -134,9 +135,9 @@ Estonia promised that anyone — anywhere — could launch a company through e-R
 
 I:
 
-- Incorporated **EcoNexus Systems OÜ**, an AI R&D and software architecture entity
-- Built this MVP from scratch — a fully functional, GDPR-ready AI product
-- Submitted a **fully documented microloan** to (LHV) to scale
+- Incorporated **EcoNexus Systems OÜ**, an AI R&D and software architecture entity  
+- Built this MVP from scratch — a fully functional, GDPR-ready AI product  
+- Submitted a **fully documented microloan** to (LHV) to scale  
 
 Despite meeting all digital and legal requirements, I was **denied funding solely because I wasn't physically in Estonia.**  
 LHV’s internal policy rejected my application regardless of compliance or entity status.
@@ -166,9 +167,9 @@ This repository is my **technical counter-response** — a functioning public-pr
 
 🎯 DAO Alignment
 
-- This MVP was built without VC, without banks, and without permission.
-- It qualifies as public infrastructure for Quadratic Funding matching rounds.
-- All repo logic, stack, and deployment instructions are transparent and reproducible.
+- This MVP was built without VC, without banks, and without permission.  
+- It qualifies as public infrastructure for Quadratic Funding matching rounds.  
+- All repo logic, stack, and deployment instructions are transparent and reproducible.  
 - Crypto-first billing proves it is self-sovereign and ecosystem-ready.
 
 ---
@@ -185,7 +186,7 @@ This repository is my **technical counter-response** — a functioning public-pr
 
 ## 💬 Final Note
 
-This entire repository was built with **no outside funding** — only founder time, sweat equity, and DAO-aligned vision.
+This repository was built with **no outside funding** — only strategic founder time, with this MVP representing a small part of over **1,300+ hours** invested across the full EcoNexus deployment stack.
 
 If this architecture fits your mission — **fund it**.  
 If this repo inspires you — **fork it and improve it**.
