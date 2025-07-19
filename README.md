@@ -10,7 +10,7 @@
 
 ## 🛡️ Privacy & IP Protection
 
-This project is protected under a **Proprietary License** (see [LICENSE](./LICENSE)).
+This project is protected under a **Proprietary License** (see [LICENSE.md]).
 
 **Key safeguards:**
 - `.env.local` and all API keys are excluded via `.gitignore`
@@ -38,11 +38,6 @@ Support the mission directly via the new [Donate Page](https://econexus.eu/donat
 
 This site was part of an **e-Resident startup package** denied a microloan by **LHV Bank, Estonia**. Despite meeting legal and professional standards, rejection was issued solely due to **non-residency**.
 
-### 📰 Medium Article:
-[LHV Rejected My e-Residency Business Loan Application Because I’m An E-Resident](https://medium.com/@econexus)
-
-### ⭐ Trustpilot Review:
-https://www.trustpilot.com/reviews/686d1069096889da45a7597f
 
 > ❝ Despite submitting one of the most well-prepared startup applications they've likely received, LHV rejected it simply due to my e-resident status. This reveals a systemic flaw in Estonia’s “borderless” digital promise. ❞
 
