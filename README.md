@@ -1,194 +1,89 @@
-🔒 Authorship + Ownership retained by **EcoNexus Systems OÜ**  
-This repository is a cryptographic proof of architecture, authorship, and sovereign deployment capability.
+// Timestamp: 2025-07-19 | Repo: https://github.com/EcoNexusSystems/econexus-site
 
-# 🗺️ OneWorldLingo – MVP 1 Repository
+# EcoNexus Website
 
-### Built under: `EcoNexus Systems OÜ` (Estonian e-Residency Company)  
-### Final Deployment: [https://econexus.eu](https://econexus.eu)
+🌐 **Official site for EcoNexus Systems OÜ**, a software R&D studio designing AI-powered infrastructure for resilience, autonomy, and sovereign infrastructure development.
 
----
-
-## 🧠 Project Overview
-
-**OneWorldLingo** is a multilingual AI SaaS platform built for **automated transcription and translation** across all **24 official EU languages** + **Ukrainian**. Designed with **privacy-first infrastructure**, it offers **compliant, affordable AI tools** to education orgs, NGOs, and DAO-aligned public-good deployments.
-
-This is the **first public MVP** by **EcoNexus Systems OÜ**, a digitally native software company registered via Estonia’s e-Residency program.  
-All logic, infrastructure, and integration was built in-house, grant-ready, and reproducible.
+🔧 **Built with** Astro, Tailwind CSS, and modular component architecture.
 
 ---
 
-## 🧾 Project Highlights
+## 🛡️ Privacy & IP Protection
 
-- ✅ Built with **Next.js 15 + Tailwind CSS**
-- ✅ Upload, transcribe, and translate — in a single UI
-- ✅ Supabase-auth + OpenAI Whisper + DeepL API
-- ✅ GDPR-compliant, EU-hosted infrastructure
-- ✅ No cookies, trackers, or behavioral analytics
-- ✅ Crypto-first donation and billing path enabled (ETH/USDC, MetaMask-compatible)
-- ✅ Stripe billing scaffolded and will run in parallel once LTD is live
+This project is protected under a **Proprietary License** (see [LICENSE](./LICENSE)).
 
----
-
-## 🏗️ Technical Stack
-
-| Layer        | Tech Used                                                                 |
-|--------------|---------------------------------------------------------------------------|
-| Frontend     | Next.js 15 (App Router) + Tailwind CSS                                     |
-| Backend      | Serverless API Routes (Edge Functions)                                     |
-| Auth         | Supabase Auth + RLS (Row-Level Security)                                  |
-| Database     | Supabase PostgreSQL (EU-hosted only)                                       |
-| Transcription| OpenAI Whisper API                                                         |
-| Translation  | DeepL API                                                                  |
-| Dev Tools    | GitHub Copilot, CodeSandbox, VS Code                                       |
-| Hosting      | Netlify (deploy hooks scaffolded)                                          |
+**Key safeguards:**
+- `.env.local` and all API keys are excluded via `.gitignore`
+- Audit-ready documentation is maintained privately
+- Non-code-breaking watermarking is applied across source files
+- DAO contributions are governed under non-extractive licensing
 
 ---
 
-## 🔐 Compliance & Data Policy
+## 💸 Crypto-First Donation Page (Live)
 
-- GDPR-compliant EU hosting  
-- No cookies or 3rd-party scripts  
-- Ephemeral processing only — no file storage  
-- Role-based access enforced via Supabase RLS  
-- Email system scaffolded via Resend
+Support the mission directly via the new [Donate Page](https://econexus.eu/donate) — optimized for DAO-aligned contributors and public-good funders.
 
----
+- 🔐 ETH + USDC supported
+- 🖼️ Wallet address available as QR code
+- ✅ Offline-compatible, JavaScript-free, mobile-ready
 
-## 🧭 Governance and IP
+📬 Wallet: `0xa935125eF13B475C6e90698eD7DFC946b9579865`
 
-- MVP fully authored by **EcoNexus Systems OÜ**
-- All IP licensed and documented — see: `/founder-evidence/`
-- Founder retains enforceable royalty rights per signed agreements
-- Future billing operations will run under a separate **Irish LTD subsidiary**
+💡 All donation logic is 100% offline-compatible and tracked transparently on-chain.
 
 ---
 
-## 💸 Crypto-First Donation & Billing Model (Live)
+## 🔍 Public Response to LHV Banking Rejection
 
-To minimize friction and align with decentralized funding models, this MVP now uses a **crypto-first billing and donation system**, with no reliance on banks or Stripe at launch.
+This site was part of an **e-Resident startup package** denied a microloan by **LHV Bank, Estonia**. Despite meeting legal and professional standards, rejection was issued solely due to **non-residency**.
 
-- ✅ Accepts ETH and USDC
-- ✅ Donations are processed directly via MetaMask or wallet transfer
-- ✅ QR Code and Copy-to-Clipboard available for mobile and desktop
-- ✅ Stripe integration scaffolded for parallel fiat support (pending LTD formation)
+### 📰 Medium Article:
+[LHV Rejected My e-Residency Business Loan Application Because I’m An E-Resident](https://medium.com/@econexus)
 
-> 🧾 Donations and usage-based support now available at:  
-> 🔗 [https://econexus.eu/donate](https://econexus.eu/donate)  
-> 📬 Wallet Address: `0xa935125eF13B475C6e90698eD7DFC946b9579865`
+### ⭐ Trustpilot Review:
+https://www.trustpilot.com/reviews/686d1069096889da45a7597f
 
----
+> ❝ Despite submitting one of the most well-prepared startup applications they've likely received, LHV rejected it simply due to my e-resident status. This reveals a systemic flaw in Estonia’s “borderless” digital promise. ❞
 
-## 🚧 Roadmap
-
-| Milestone                         | Status        |
-|----------------------------------|---------------|
-| Supabase Auth                    | ✅ Complete    |
-| Whisper Integration              | ✅ Complete    |
-| DeepL Integration                | ✅ Complete    |
-| Crypto-First Billing Support     | ✅ Live        |
-| Stripe Setup (Ireland LTD)       | 🔜 Pending     |
-| Resend Transactional Email       | 🔜 Scaffolded  |
-| MVP UI & Transcription UX        | ✅ Complete    |
-| Offline/Air-gapped Packaging     | 🔜 Planned     |
+🕊️ This only reinforces our mission: to build independent, accessible, post-scarcity tech — without gatekeepers.
 
 ---
 
-## 📸 MVP Screenshots Included
+## 🤝 DAO Collaboration
 
-- Upload flow  
-- Dashboard  
-- Transcription + Translation output  
-- Privacy policy  
-- Subscription UI  
-- About + Company pages  
+We are **not open source in the traditional sense** — to avoid extractive forking or VC capture.
 
-🖼️ Available in: `/grant-docs/MVP-Screenshots/` (13 screenshots total)
-
----
-
-## 📂 Repo Directory Map
-
-- `/docs/` – All markdown files (legal, technical, roadmap, use of funds)  
-- `/grant-docs/` – MVP screenshots, forecast, grant summary  
-- `/founder-evidence/` – IP licensing + authorship proofs  
-- `/manifest.md` – Repo index and file declarations  
-- `/LICENSE.md` – Creative Commons Attribution–NonCommercial–NoDerivatives 4.0
+We *do* support:
+- ✅ Free trials and capped usage for evaluation
+- 🤝 DAO-aligned forks and collaborative extensions
+- 🧩 Co-governance models under custom licensing
+- 🆓 Royalty-free access where DAO values are shared
 
 ---
 
-## 🧠 Intellectual Property
+## 🗂️ Site Structure
 
-This MVP is original work, licensed under retained ownership:
-
-- 🛡️ Authorship retained by **EcoNexus Systems OÜ**  
-- 📜 IP Licensing & Royalty Structure documented and enforceable  
-- 🧠 All logic, integration patterns, and stack design are in-house builds  
-- 💡 While this platform is not open source, it is DAO-transparent and aligned, royalty-enforceable, and reproducible by sovereign builders.
+- `/src/pages/` – All Astro page files (index, donate, etc.)
+- `/public/` – Static assets (wallet QR code, favicon)
+- `/components/` – Reusable UI components (if any)
+- `/astro.config.mjs` – Build setup (set to `output: static`)
 
 ---
 
-## 💥 Why This Project Exists
+## 📬 Contact
 
-### ❌ Rejected by LHV. ✅ Funded by the DAO.
-
-Estonia promised that anyone — anywhere — could launch a company through e-Residency. I believed them.
-
-I:
-
-- Incorporated **EcoNexus Systems OÜ**, an AI R&D and software architecture entity  
-- Built this MVP from scratch — a fully functional, GDPR-ready AI product  
-- Submitted a **fully documented microloan** to (LHV) to scale  
-
-Despite meeting all digital and legal requirements, I was **denied funding solely because I wasn't physically in Estonia.**  
-LHV’s internal policy rejected my application regardless of compliance or entity status.
-
-This repository is my **technical counter-response** — a functioning public-proof MVP stack, fully documented, grant-ready, and fundable by decentralized ecosystems.
-
-📌 **This isn’t a grievance — it’s a blueprint for post-gatekeeper infrastructure.**  
-📌 **DAO grants and global contributors make it possible to build where institutions block us.**  
-📌 **OneWorldLingo proves that aligned, founder-led deployment can still happen — without legacy finance.**  
-📌 **Crypto-first infrastructure is now live — global support flows can begin today.**
-
-🔗 [Read the Medium article](https://medium.com/@admin_46492/lhv-rejected-my-e-residency-business-loan-application-because-im-an-e-resident-db327fc05718)  
-🔗 [Trustpilot Public Review](https://www.trustpilot.com/reviews/686d1069096889da45a7597f)
+- 📧 Email: [admin@econexus.eu](mailto:admin@econexus.eu)  
+- 🧠 GitHub: [EcoNexusSystems/econexus-site](https://github.com/EcoNexusSystems/econexus-site)
 
 ---
 
-## 🤖 Civic & DAO Alignment
+## 🧠 Final Note
 
-| DAO Principle         | Delivered                                  |
-|-----------------------|--------------------------------------------|
-| ✅ Decentralization    | No VC, No bank, No proprietary lock-in     |
-| ✅ Sovereignty         | Offline-ready SaaS for public-good usage   |
-| ✅ Proof of Work       | Built + documented before grant request    |
-| ✅ Public Access       | Code, logic, and licensing are transparent |
+This site was built and deployed with no VC, no bank account, and no permission. If the work speaks to your mission:
 
----
+> 🧱 Fork it.  
+> 🧭 Fund it.  
+> 🕊️ Or build with us.
 
-🎯 DAO Alignment
-
-- This MVP was built without VC, without banks, and without permission.  
-- It qualifies as public infrastructure for Quadratic Funding matching rounds.  
-- All repo logic, stack, and deployment instructions are transparent and reproducible.  
-- Crypto-first billing proves it is self-sovereign and ecosystem-ready.
-
----
-
-## 🧾 Contact
-
-- 💼 **Founder**: Rex Dale Black Jr  
-- 🏢 **Entity**: EcoNexus Systems OÜ (Estonia, Reg. 17218648)  
-- 📬 **Email**: [admin@econexus.eu](mailto:admin@econexus.eu)  
-- 🌐 **Website**: [https://econexus.eu](https://econexus.eu)  
-- 🧑‍💻 **GitHub**: [EcoNexusSystems](https://github.com/EcoNexusSystems)
-
----
-
-## 💬 Final Note
-
-This repository was built with **no outside funding** — only strategic founder time, with this MVP representing a small part of over **1,300+ hours** invested across the full EcoNexus deployment stack.
-
-If this architecture fits your mission — **fund it**.  
-If this repo inspires you — **fork it and improve it**.
-
-🛠️ Either way: **This tech now exists.**
+**This tech now exists.**
