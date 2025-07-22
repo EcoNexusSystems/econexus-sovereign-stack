@@ -2,84 +2,99 @@
 > This repo is a cryptographic proof of architecture and authorship.
 
 
-Intellectual Property Framework – One World Lingo (MVP 1)
+# 📑 Intellectual Property Framework  
+**OneWorldLingo MVP (Under EcoNexus Systems OÜ)**  
+📍 Document Type: Internal Asset Control & Licensing Memo
 
-All intellectual property associated with the One World Lingo platform is authored in-house and held under the retained IP framework of the parent entity, EcoNexus Systems OÜ (Estonian e-Resident company, registry code 17218648).
+---
 
-This framework ensures the platform is legally protected, modularly licensable, and aligned with both public-good deployment goals and future DAO or grant-compliant redistribution.
+## 🔒 Ownership & Legal Custody
 
-📄 Legal Custody & Rights:
+All intellectual property (IP) associated with the **OneWorldLingo** multilingual AI platform is:
 
-    Author Entity: EcoNexus Systems OÜ
+- 🧠 Authored fully in-house by EcoNexus Systems OÜ  
+- 🔏 Cryptographically anchored for provenance and auditability  
+- 📜 Held and governed under the retained rights framework defined herein  
 
-    Project/Subsidiary: One World Lingo
+> **Entity of Record:**  
+> **EcoNexus Systems OÜ** (Estonian e-Resident company)  
+> **Registry Code:** 17218648  
+> **Jurisdiction:** Estonia, EU
 
-    Current Licensing Mode: Exclusive retained use + modular sublicensing
+This structure ensures the MVP is **legally protected**, **strategically licensable**, and **future-ready** for commercial, institutional, and public-good deployments.
 
-    Public Use Rights: Enabled only via platform deployment or approved funding terms
+---
 
-    Royalty Terms: Optional royalty buyout, as per uploaded documentation
+## 🧩 IP Structure by Component
 
-All core codebases, integrations, and architectural logic are original works and internally documented for IP provenance and contribution tracking.
+| Area | Description | Notes |
+|------|-------------|-------|
+| **Platform Architecture** | Custom SaaS logic | Built in Next.js + Supabase, authored in-house |
+| **AI Integration Modules** | Whisper + DeepL pipelines | Wrapped with proprietary security + usage control |
+| **User Auth + Gating** | Supabase RLS & modular access logic | Supports multi-tenant deployment |
+| **Quota + Billing Logic** | Crypto + fiat scaffolding | Tokenized and fiat-ready with tiered usage |
+| **Deployment Pipelines** | Static + serverless workflows | Built for offline-compatible portability |
+| **Licensing Control** | Modular enforcement layers | Aligned with revenue-sharing and sublicensing |
 
+⚠️ No proprietary third-party business logic is embedded. All critical infrastructure is independently constructed or API-bound with abstracted integrations.
 
-🔐 Components Covered by IP Framework:
+---
 
+## 🔄 Licensing & Redistribution Strategy
 
-Component Area	Notes:
+This MVP is built for **controlled scale** — allowing legal deployment without sacrificing original ownership.
 
-SaaS architecture design	Next.js + Supabase stack logic authored in-house
+Licensing Pathways Include:
 
-Whisper/DeepL integrations	Wrapper modules + security enforcement logic
+- ✅ **Full asset sale** — with optional royalty trail for strategic divestment  
+- 🤝 **Non-exclusive sublicensing** — for mission-aligned operators or public-good partners  
+- 📜 **Buyout structure** — available under predefined valuation tiers (see: “Royalty Buyout Playbook”)  
+- 🎯 **Deployment-only licensing** — enables safe MVP rollout without source transfer  
 
-User/session management logic	Supabase RLS + custom gating patterns
+This ensures maximum flexibility without compromising long-term authorship integrity.
 
-Usage/billing scaffolding	Tiered access, tokenized quota prep
+---
 
-Deployment logic	Modular pipelines (future offline compatibility)
+## 🧾 Royalty & Equity Terms
 
-No part of the One World Lingo MVP is sourced from proprietary vendor logic outside its permitted API access layer. All business-critical functions are replicable and internally authored.
+| Clause | Terms |
+|--------|-------|
+| **Royalty Model** | 25% perpetual gross-revenue share (if retained) |
+| **Buyout Option** | Available via one-time payment (see contract memo) |
+| **Cap Table Ready** | Contribution tracking ledger & equity negotiation support |
+| **Assignment Compatibility** | Designed for transfer into LTD or HoldCo if needed |
 
-🔄 Redistribution & Licensing Strategy:
+---
 
-To support long-term DAO adoption, digital commons access, and mission-aligned partnerships, the IP framework includes:
+## 📚 Governance Artifacts (Available on Request)
 
-    Non-exclusive sublicensing options for select NGO or DAO partners
+- **Royalty Ownership Certificate (v1)**  
+- **IP Licensing Agreement (v2)**  
+- **Royalty Buyout Playbook Memo (v1)**  
+- **Contribution Ledger & Equity Memo (v1)**
 
-    Royalty buyout structure for aligned funding institutions (see memo: “Royalty Buyout Playbook”)
+All artifacts are signed, notarized (where required), and stored in the `/docs/` and `/founder-evidence/` directories.
 
-    DAO grant-conforming usage clause – platform may be deployed for public-good use cases if funding terms are met
+---
 
-    Founder-backed contribution ledger for valuation, equity negotiation, and open cap table modeling
+## 🛡️ Summary
 
-🛡️ Legal Summary:
+This framework provides:
 
-This IP structure allows:
+- ✅ Transparent audit trail for IP authorship and contributions  
+- ✅ Legal clarity for resale, sublicensing, and investor protection  
+- ✅ Modularity for future MVP integration under EcoNexus or third-party brands  
+- ✅ Fully compliant deployment structure for both public and private sector partners  
 
-    Transparent auditability and contribution tracking
+This is **not open-source** — but it is **mission-deployable**.  
+Built for resilience. Designed for modular scale.
 
-    Secure author retention of all value-creating logic
+---
 
-    Public-good deployment under defined terms
+## 📬 Contact
 
-    Clear separation of investor-funded vs. community-funded deployments
+**For IP licensing, investment due diligence, or resale rights discussion:**  
+📧 admin@econexus.eu  
+👤 Representative: Rex Dale Black Jr  
+🏢 Entity: EcoNexus Systems OÜ (Estonia)
 
-For formal IP licensing, sublicensing, or buyout terms, refer to:
-
-    IP Licensing Agreement (v2)
-
-    IP Licensing Agreement Summary Extract (v1)
-
-    Royalty Buyout Playbook Memo (v1)
-
-    Royalty Ownership Certificate (v1)
-
-Contact:
-
-For licensing requests, sublicensing discussions, or valuation inquiries:
-
-    admin@econexus.eu
-
-    Legal entity: EcoNexus Systems OÜ
-
-    Representative: Rex Dale Black Jr
