@@ -2,91 +2,98 @@
 > This repository is cryptographic proof of authorship, architecture, and rights ownership.  
 
 
-Entity Overview – One World Lingo / EcoNexus Systems OÜ
+# 📄 Entity Overview  
+**EcoNexus Sovereign Stack – Strategic R&D & IP Infrastructure**  
+**Parent Entity:** EcoNexus Systems OÜ (Estonia, Reg. 17218648)  
+**Repo Purpose:** IP-anchored legal and technical foundation for EcoNexus MVP ecosystem  
 
-This document outlines the legal and operational structure supporting the launch of One World Lingo, a multilingual AI transcription and translation platform developed and currently maintained under EcoNexus Systems OÜ.
+---
 
-1. Legal Entity (Receiving Funds):
+## 🧱 Overview  
 
-EcoNexus Systems OÜ
+This repository documents the core architecture, governance, and IP control structures behind the EcoNexus mission — offering cryptographic proof of authorship, legal clarity for acquisition, and a fully structured R&D asset with pre-integrated expansion paths.
 
-    Registered under Estonian e-Residency
+Unlike standalone apps or MVPs, this repo represents a **reusable sovereign R&D stack** that supports multiple AI-powered projects, with licensing and control frameworks already formalized and enforceable under EU commercial law.
 
-    Company Registry Code: 17218648
+---
 
-    Jurisdiction: Estonia (EU)
+## 🏛️ Legal Structure  
 
-    Status: Active and Compliant
+**Registered Entity:**  
+- **Name:** EcoNexus Systems OÜ  
+- **Jurisdiction:** Estonia (EU) — e-Residency compliant  
+- **Reg. Code:** 17218648  
+- **Status:** Active, audit-ready, and grant-compatible  
 
-EcoNexus operates as a private software development and R&D company, with legal capacity to receive EU/EEA grants, partner with civic and public entities, and handle cross-border billing or IP licensing.
+EcoNexus Systems OÜ functions as the parent entity for all MVP operations and funding, offering:
 
-All initial grant funding or early-stage investment will be directed through EcoNexus Systems OÜ, with separate accounting records for One World Lingo project operations.
+- Legal reception of EU/EEA grants and contracts  
+- IP licensing, SaaS billing, and decentralized infrastructure support  
+- Fully exportable governance stack with flexible subsidiary setup  
 
-2. Operating Product (MVP 1):
+---
 
-One World Lingo
+## 🚀 MVP Integration  
 
-    MVP multilingual AI tool
+This stack directly supports the following projects:
 
-    Operated as a product division under EcoNexus
+| MVP Name           | Status         | Structure       | Ownership |
+|--------------------|----------------|------------------|-----------|
+| One World Lingo    | ✅ Ready-to-Launch | Product under EcoNexus | 100% |
+| Future MVP's       | 🧪 Structure Ready | Future MVP's as Product | 100% |
 
-    Currently pre-launch; infrastructure complete
+Each MVP is modular and governed by pre-built licensing and royalty terms in this repo. IP reuse, brand separation, or investor onboarding are all streamlined.
 
-    Privacy-first architecture aligned with EU standards
+---
 
-No distinct corporate entity exists yet for the One World Lingo product. It is legally and financially housed under EcoNexus Systems OÜ during the MVP stage.
+## 📂 Repo Architecture & Control  
 
-3. Planned Expansion (Billing Entity):
+| Asset Type            | Held By                | Details |
+|-----------------------|------------------------|---------|
+| Codebase & Docs       | EcoNexus Systems OÜ    | Cryptographically watermarked, Git-authored, under EU law |
+| IP Licensing Terms    | Defined in `/founder-evidence/` | Royalty rights, derivative licenses, and equity clauses included |
+| MVP Authorship Proof  | Included in `/founder-evidence/` | Timestamped authorship, valuation benchmarks |
+| Grant-Ready Materials | Included in `/grant-docs/`      | Revenue models, use-of-funds, MVP screenshots |
 
-A new Irish Limited Company (LTD) is in formation to:
+---
 
-    Act as the official billing entity for SaaS subscriptions
+## 🔒 IP + Governance Framework  
 
-    Localize infrastructure in a compliant EU jurisdiction (Ireland)
+All infrastructure complies with:
 
-    Simplify Stripe and Resend setup for GDPR-ready SaaS workflows
+- **GDPR + EU commercial law**
+- **Non-extractive licensing options** (DAO-aligned optional)
+- **Royalty-secured authorship rights**
+- **No third-party analytics, no cloud lock-in**
 
-    Allow tax-compliant operations for EU + global SaaS growth
+The Sovereign Stack is engineered to operate as a **foundation for decentralized or online/offline-ready SaaS MVPs** — ensuring full control across infrastructure, funding, and authorship.
 
-Once the LTD is formally registered, it will operate as a wholly-owned subsidiary of EcoNexus Systems OÜ. Transition of billing functions and future IP assignment will be documented transparently.
+---
 
-4. IP & Control:
+## 💰 Valuation & Monetization Drivers  
 
-Asset Type	Held By	Notes
-Codebase	EcoNexus Systems OÜ	All logic authored in-house by founder
-MVP Branding	EcoNexus Systems OÜ	Trademarking under review for “One World Lingo”
-Hosting + Accounts	EcoNexus Systems OÜ	Supabase, Netlify, Resend, Stripe (pre-setup)
-Future SaaS Billing IP	Ireland LTD (planned)	Will license IP from EcoNexus or inherit via structure
+- 🧠 Over 1300 hours of R&D, governance, and legal infrastructure  
+- 🔐 Fully documented royalty & IP licensing structure  
+- 📦 Designed to be forked, scaled, or sold as a consulting/R&D backbone  
+- 💼 Ideal for buyers seeking high-leverage digital infrastructure with embedded compliance  
+- 🧱 Rollup-friendly: integrates easily into SaaS portfolios or founder-led expansions  
 
-5. Compliance & Governance:
+---
 
-EcoNexus operates under Estonian commercial law and GDPR regulations.
-All MVP infrastructure:
+## 📬 Contact  
 
-    Resides in EU cloud/data jurisdictions
+- **Founder:** Rex Dale Black Jr  
+- **Legal Entity Email:** admin@econexus.eu  
+- **MVP Project Contact:** admin@oneworldlingo.com  
+- **Document Reference Date:** July 2025  
 
-    Avoids third-party analytics or behavioral tracking
+---
 
-    Implements strict user data boundaries (via Supabase policies)
+## 🧠 Summary  
 
+The `econexus-sovereign-stack` repo is not just documentation — it is the **strategic command layer** behind a fully modular AI product studio.
 
-6. Governance and Ownership Structure:
+With its clean cap table, cryptographic authorship, and pre-structured licensing system, this asset gives buyers the **legal clarity, technical foundation, and IP leverage** to launch or scale multiple products across sovereign, ethical, and high-impact infrastructure sectors.
 
-    Royalty and IP Governance:
-   
-    One World Lingo is a licensed MVP platform operated by EcoNexus Systems OÜ. IP ownership, royalty rights, and legal control are governed under the Royalty Ownership Certificate and IP Licensing Agreement v2. EcoNexus retains a 25% perpetual royalty stream on gross revenue across all derivative use cases unless explicitly bought out.
+This tech isn't theoretical. It's structured, compliant, and ready.
 
-7. Contact & Representation:
-
-    Project Lead / Founder: Rex Dale Black Jr
-
-    Legal Entity Contact: admin@econexus.eu
-
-    MVP Project Contact: admin@oneworldlingo.com
-
-    Document Reference Date: July 2025
-
-8. Summary:
-
-One World Lingo is a product of EcoNexus Systems OÜ and is being developed toward independent SaaS operation under an Irish subsidiary.
-The current architecture, IP, and roadmap are fully under EcoNexus control and fundable through its existing legal structure.
