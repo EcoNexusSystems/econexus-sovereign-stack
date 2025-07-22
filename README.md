@@ -1,81 +1,96 @@
 // Timestamp: 2025-07-19 | Repo: https://github.com/EcoNexusSystems/econexus-site
 
-# EcoNexus Website
+# 🧠 EcoNexus Sovereign Stack – Strategic Architecture Repository
 
-🌐 **Official site for EcoNexus Systems OÜ**, a software R&D studio designing AI-powered infrastructure for resilience, autonomy, and sovereign infrastructure development.
+This repository contains the strategic blueprint and support infrastructure for **EcoNexus Systems OÜ** — a mission-driven R&D studio building scalable, AI-powered systems for resilient global infrastructure.
 
-🔧 **Built with** Astro, Tailwind CSS, and modular component architecture.
-
----
-
-## 🛡️ Privacy & IP Protection
-
-This project is protected under a **Proprietary License** (see [LICENSE.md]).
-
-**Key safeguards:**
-- `.env.local` and all API keys are excluded via `.gitignore`
-- Audit-ready documentation is maintained privately
-- Non-code-breaking watermarking is applied across source files
-- DAO contributions are governed under non-extractive licensing
+This is the foundation layer powering all EcoNexus MVPs, including the ready-to-launch **OneWorldLingo** platform.
 
 ---
 
-## 💸 Crypto-First Donation Page (Live)
+## 🌐 Company Overview
 
-Support the mission directly via the new [Donate Page](https://econexus.eu/donate) — optimized for DAO-aligned contributors and public-good funders.
+**EcoNexus Systems OÜ** is a founder-led software studio structured to launch **lean, self-sustaining AI infrastructure products** that solve real-world resilience and autonomy challenges.
 
-- 🔐 ETH + USDC supported
-- 🖼️ Wallet address available as QR code
-- ✅ Offline-compatible, JavaScript-free, mobile-ready
+Rather than chase scale at any cost, EcoNexus focuses on **precision-built MVPs** for underserved domains:
 
-📬 Wallet: `0xa935125eF13B475C6e90698eD7DFC946b9579865`
+- 🛰️ Crisis communication & continuity tools  
+- 🌍 Privacy-aligned, multilingual AI platforms  
+- 🧩 Decentralized and modular field systems  
+- 🔐 Sovereign-by-design infrastructure (DAO-ready)
 
-💡 All donation logic is 100% offline-compatible and tracked transparently on-chain.
-
----
-
-## 🔍 Public Response to LHV Banking Rejection
-
-This site was part of an **e-Resident startup package** denied a microloan by **LHV Bank, Estonia**. Despite meeting legal and professional standards, rejection was issued solely due to **non-residency**.
-
-🕊️ This only reinforces our mission: to build independent, accessible, post-scarcity tech — without gatekeepers.
+This repo houses the **governance logic, system architecture, and modular frameworks** for all current and future launches.
 
 ---
 
-## 🤝 DAO Collaboration
+## 🏗️ Role of This Repo
 
-We are **not open source in the traditional sense** — to avoid extractive forking or VC capture.
+The `econexus-sovereign-stack` repo is **not a product** — it is a mission architecture.
 
-We *do* support:
-- ✅ Free trials and capped usage for evaluation
-- 🤝 DAO-aligned forks and collaborative extensions
-- 🧩 Co-governance models under custom licensing
-- 🆓 Royalty-free access where DAO values are shared
+It includes:
+
+- 🔧 Deployment frameworks and code scaffolds
+- 🧭 IP structure and royalty logic for MVPs
+- 📊 Pricing & licensing structures for SaaS billing models
+- 💼 Transfer-ready documentation for ownership handoff
+- 📜 Internal audit trails of authorship, IP, and licensing rights
+
+This is what enables EcoNexus to **reliably scale** new MVPs without overhead or centralization.
 
 ---
 
-## 🗂️ Site Structure
+## 📦 Core Structure
 
-- `/src/pages/` – All Astro page files (index, donate, etc.)
-- `/public/` – Static assets (wallet QR code, favicon)
-- `/components/` – Reusable UI components (if any)
-- `/astro.config.mjs` – Build setup (set to `output: static`)
+```
+/strategic/       → Company formation, valuation tiers, founder equity
+/mvp-blueprints/  → Architecture + product planning for each SaaS
+/licensing/       → Licensing logic, DAO-ready clauses, royalty terms
+/deployment/      → Setup scaffolds (Netlify, Supabase, serverless)
+/handoff/         → Assets required for sale or portfolio transfer
+```
+
+---
+
+## 🔐 Governance & Licensing
+
+All EcoNexus projects are protected by a **Proprietary License**, with non-open use restrictions and optional public-good access provisions. Each MVP includes:
+
+- Cryptographic authorship and watermarking  
+- EU + Estonia enforceable royalty logic  
+- Optional DAO-aligned forks via custom licenses  
+- 25% gross-revenue royalty to parent unless otherwise restructured during sale
+
+This repo contains all supporting logic for clean, **audit-ready project transfers**.
+
+---
+
+## 📈 Use Cases for Buyers
+
+This strategic stack is ideal for:
+
+- Investors acquiring **a turnkey EU SaaS company** with expansion options  
+- Studios seeking to onboard **MVP 1** and clone future products  
+- Operators needing **GDPR-ready infrastructure** for multilingual, AI, or sovereignty tooling  
+- Agencies looking to integrate cleanly into a parent–subsidiary rollout model
+
+Whether run as-is or folded into a larger portfolio, this system is **modular, scalable, and legally clean**.
 
 ---
 
 ## 📬 Contact
 
-- 📧 Email: [admin@econexus.eu](mailto:admin@econexus.eu)  
-- 🧠 GitHub: [EcoNexusSystems/econexus-site](https://github.com/EcoNexusSystems/econexus-site)
+**Founder**: Rex Dale Black Jr  
+**Entity**: EcoNexus Systems OÜ (Estonia, Reg. 17218648)  
+**Email**: admin@econexus.eu  
+**Website**: [https://econexus.eu](https://econexus.eu)  
+**GitHub**: [EcoNexusSystems](https://github.com/EcoNexusSystems)
 
 ---
 
-## 🧠 Final Note
+## 💡 Final Note
 
-This site was built and deployed with no VC, no bank account, and no permission. If the work speaks to your mission:
+This is the brainstem behind the EcoNexus ecosystem — designed for replication, precision scaling, and global impact.
 
-> 🧱 Fork it.  
-> 🧭 Fund it.  
-> 🕊️ Or build with us.
+Whether you're acquiring for integration, relaunch, or long-term ownership, this architecture gives you everything you need to own, operate, or extend the mission.
 
-**This tech now exists.**
+> No VC. No fluff. Just engineered resilience — ready to go.
