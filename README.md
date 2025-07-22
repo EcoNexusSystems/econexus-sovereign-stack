@@ -1,96 +1,107 @@
 // Timestamp: 2025-07-19 | Repo: https://github.com/EcoNexusSystems/econexus-site
 
-# 🧠 EcoNexus Sovereign Stack – Strategic Architecture Repository
-
-This repository contains the strategic blueprint and support infrastructure for **EcoNexus Systems OÜ** — a mission-driven R&D studio building scalable, AI-powered systems for resilient global infrastructure.
-
-This is the foundation layer powering all EcoNexus MVPs, including the ready-to-launch **OneWorldLingo** platform.
+## 🧠 EcoNexus Sovereign Stack  
+_The Strategic Command Layer for Modular AI Deployment_  
+**Repo Status:** Private | Maintained by EcoNexus Systems OÜ (Estonia, Reg. 17218648)
 
 ---
 
-## 🌐 Company Overview
+## 📌 Overview
 
-**EcoNexus Systems OÜ** is a founder-led software studio structured to launch **lean, self-sustaining AI infrastructure products** that solve real-world resilience and autonomy challenges.
+This repository contains the **sovereign infrastructure blueprint** for EcoNexus Systems OÜ — a modular R&D and IP control stack built to anchor scalable, AI-driven MVPs.
 
-Rather than chase scale at any cost, EcoNexus focuses on **precision-built MVPs** for underserved domains:
+Unlike standalone apps, this repo defines the legal, operational, and technical foundations for **long-term deployment of decentralized, ethical, and autonomous software products.**
 
-- 🛰️ Crisis communication & continuity tools  
-- 🌍 Privacy-aligned, multilingual AI platforms  
-- 🧩 Decentralized and modular field systems  
-- 🔐 Sovereign-by-design infrastructure (DAO-ready)
-
-This repo houses the **governance logic, system architecture, and modular frameworks** for all current and future launches.
+It is the **nerve center** of the EcoNexus development model — designed to protect, scale, and license high-leverage digital infrastructure with complete legal and cryptographic backing.
 
 ---
 
-## 🏗️ Role of This Repo
+## 🏛️ Use Case
 
-The `econexus-sovereign-stack` repo is **not a product** — it is a mission architecture.
+This repo is ideal for:
 
-It includes:
+- 📦 Founders or buyers acquiring the EcoNexus studio and its product ecosystem  
+- 🧱 Operators launching multiple SaaS MVPs under a common architecture  
+- 💼 Investors, agencies, or rollups seeking pre-licensed IP infrastructure  
+- 🧑‍💻 Developers and consultants building resilient systems for volatile regions
 
-- 🔧 Deployment frameworks and code scaffolds
-- 🧭 IP structure and royalty logic for MVPs
-- 📊 Pricing & licensing structures for SaaS billing models
-- 💼 Transfer-ready documentation for ownership handoff
-- 📜 Internal audit trails of authorship, IP, and licensing rights
-
-This is what enables EcoNexus to **reliably scale** new MVPs without overhead or centralization.
+All governance, licensing, and expansion pathways are mapped and documented.
 
 ---
 
-## 📦 Core Structure
+## 📂 Repo Structure
 
-```
-/strategic/       → Company formation, valuation tiers, founder equity
-/mvp-blueprints/  → Architecture + product planning for each SaaS
-/licensing/       → Licensing logic, DAO-ready clauses, royalty terms
-/deployment/      → Setup scaffolds (Netlify, Supabase, serverless)
-/handoff/         → Assets required for sale or portfolio transfer
-```
-
----
-
-## 🔐 Governance & Licensing
-
-All EcoNexus projects are protected by a **Proprietary License**, with non-open use restrictions and optional public-good access provisions. Each MVP includes:
-
-- Cryptographic authorship and watermarking  
-- EU + Estonia enforceable royalty logic  
-- Optional DAO-aligned forks via custom licenses  
-- 25% gross-revenue royalty to parent unless otherwise restructured during sale
-
-This repo contains all supporting logic for clean, **audit-ready project transfers**.
+| Folder | Purpose |
+|--------|---------|
+| `/docs/` | Entity logic, roadmap, use-of-funds, legal setup |
+| `/founder-evidence/` | IP authorship proof, watermark evidence, notarized licensing |
+| `/grant-docs/` | Revenue forecasts, screenshots, submission-ready grant files |
+| `/LICENSE.md` | Proprietary license & resale restrictions |
+| `/manifest.md` | High-level package declaration for buyers |
 
 ---
 
-## 📈 Use Cases for Buyers
+## 🔐 Authorship, Rights & IP  
 
-This strategic stack is ideal for:
+- All logic and governance authored by **EcoNexus Systems OÜ**
+- Enforced under **EU commercial law + digital authorship watermarking**
+- IP and royalty rights **fully documented and transferable**
+- Supports both **internal MVP launch and third-party licensing**
 
-- Investors acquiring **a turnkey EU SaaS company** with expansion options  
-- Studios seeking to onboard **MVP 1** and clone future products  
-- Operators needing **GDPR-ready infrastructure** for multilingual, AI, or sovereignty tooling  
-- Agencies looking to integrate cleanly into a parent–subsidiary rollout model
+This stack is designed to **secure multiple derivatives** without diluting ownership or requiring vendor lock-in.
 
-Whether run as-is or folded into a larger portfolio, this system is **modular, scalable, and legally clean**.
+---
+
+## 🧬 Core Design Principles
+
+- **Modular by Default** – Add or remove MVPs without rewriting core infra  
+- **Crypto-Optional, Legally Enforceable** – Operates in both fiat and token-based setups  
+- **Grant & Investor-Ready** – Docs structured for EU grant bodies, DAO grants, or private investors  
+- **No Cloud Lock-In** – Uses Netlify, Supabase, or air-gapped methods — switchable at will  
+- **Post-Gatekeeper Infrastructure** – Built for environments where banks, governments, or traditional hosting may fail
+
+---
+
+## 📦 Strategic Asset Value
+
+This repo represents:
+
+- 💼 A license-ready governance and authorship control vault  
+- 📈 A leverage point for acquisition, resale, or downstream product generation  
+- 🔄 A transferable command layer that powers EcoNexus MVPs (1–4)  
+- 💎 A high-value digital foundation for long-term IP asset control
+
+It is **not a project**, but a **platform for launching projects**, fully framed for asset transfer, IP licensing, and due diligence review.
+
+---
+
+## 🔧 Expansion-Ready MVPs
+
+The following MVPs are designed to plug into this stack:
+
+| MVP Name           | Status          | Controlled Under |
+|--------------------|------------------|------------------|
+| OneWorldLingo (MVP 1) | ✅ Ready-to-Launch | EcoNexus Systems OÜ |
+| Future MVP's       | 🧪 Structure Ready	| EcoNexus Systems OÜ |
+
+All are governed by the licensing and control mechanisms defined here.
 
 ---
 
 ## 📬 Contact
 
-**Founder**: Rex Dale Black Jr  
-**Entity**: EcoNexus Systems OÜ (Estonia, Reg. 17218648)  
-**Email**: admin@econexus.eu  
-**Website**: [https://econexus.eu](https://econexus.eu)  
-**GitHub**: [EcoNexusSystems](https://github.com/EcoNexusSystems)
+- **Founder:** Rex Dale Black Jr  
+- **Entity:** EcoNexus Systems OÜ (Estonia, Reg. 17218648)  
+- **Email:** admin@econexus.eu  
 
 ---
 
-## 💡 Final Note
+## 💬 Final Note
 
-This is the brainstem behind the EcoNexus ecosystem — designed for replication, precision scaling, and global impact.
+This repo is the keystone of the EcoNexus initiative — a **digitally anchored, legally structured, and modularly engineered foundation** for future-ready tech.
 
-Whether you're acquiring for integration, relaunch, or long-term ownership, this architecture gives you everything you need to own, operate, or extend the mission.
+If you're looking for more than just a product —  
+If you're looking for a **blueprint that scales** —  
+**This is the stack.**
 
-> No VC. No fluff. Just engineered resilience — ready to go.
+
